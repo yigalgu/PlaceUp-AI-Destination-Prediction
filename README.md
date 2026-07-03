@@ -1,5 +1,7 @@
 # ✈️ PlaceUp AI: Destination Prediction & ROI Simulator
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yigalgu/PlaceUp-AI-Destination-Prediction/blob/main/PlaceUp_Data_Challenge.ipynb)
+
 ## 📌 Project Overview
 This project provides an End-to-End Machine Learning solution for **PlaceUp**, an international travel company. The core business problem was high user churn rate due to generic, non-personalized destination recommendations. 
 This project builds an AI-driven recommendation engine that predicts a user's initial travel destination based on demographic and device data, enabling real-time personalization.
@@ -22,4 +24,4 @@ This project builds an AI-driven recommendation engine that predicts a user's in
 
 ## ⚠️ Important Note for GitHub/GitLab Viewers
 This notebook contains highly interactive components (Sliders, Dynamic HTML Dashboards). GitHub's static rendering does not support `ipywidgets`. 
-To experience the full interactive ROI simulator and the Production API Dashboard, please **download the notebook and run it locally** or open it via **Google Colab**.
+To experience the full interactive ROI simulator and the Production API Dashboard, please click the **Open In Colab** badge at the top of this page or download the notebook to run it locally.
